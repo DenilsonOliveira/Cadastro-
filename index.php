@@ -1,6 +1,6 @@
 <?php
 
-// teste 
+// teste novo
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
